@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Eschamp01
-- 👀 My main interests are in Artificial Intelligence, and Quantitative Finance. My profile contains projects on financial signal processing, and deep neural networks which I have developed and trained.
-- 🌱 I’m currently learning more about fiancial signal processing, and the quantitative analysis of financial systems.
+### Hi, I'm Edward  :wave:
 
+My main interests are in Artificial Intelligence :brain:, and Quantitative Finance 📈. 
 
-- 📫 If you have any opportunities for projects in these areas, contact me via <edwardjls@gmail.com>!
+My profile contains projects on financial signal processing, and deep neural networks which I have developed and trained.
+
+If you'd like to reach out, shoot me an email via <edwardjls@gmail.com>!
