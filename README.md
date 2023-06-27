@@ -2,6 +2,6 @@
 
 My main interests are in Artificial Intelligence :brain:, and Quantitative Finance 📈. 
 
-My profile contains projects on financial signal processing, and deep neural networks which I have developed and trained.
+My profile contains projects using Large Language Models :loudspeaker:, and also UNet-based models for computer vision :computer: :telescope:
 
-If you'd like to reach out, shoot me an email via <edwardjls@gmail.com>!
+Feel free to shoot me an email via <edwardjls@gmail.com>!
